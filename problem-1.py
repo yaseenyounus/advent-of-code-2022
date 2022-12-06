@@ -1,5 +1,3 @@
-
-
 def main():
     calories = []
     sum = 0
